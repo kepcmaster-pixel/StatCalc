@@ -1,5 +1,6 @@
 # StatCalc
 A simple statistical calculator built with HTML, CSS, JavaScript, and Chart.js for calculating descriptive statistics and visualizing data.
+view live site : https://kepcmaster-pixel.github.io/StatCalc/
 #  StatCalc
 
 A clean, responsive, and interactive statistical calculator built with **HTML, CSS, and JavaScript**. StatCalc allows users to input a list of numbers and instantly calculate descriptive statistics while visualizing the data using interactive charts powered by **Chart.js**.
